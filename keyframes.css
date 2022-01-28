@@ -16,15 +16,14 @@
     }
 }
 
-
-/*@keyframes move {
+@keyframes move {
     from {
         left: 1000px
     }
     to {
         right: 1px;
     }
-}*/
+}
 
 @keyframes mymove {
     from {
